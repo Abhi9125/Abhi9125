@@ -1,14 +1,16 @@
 <h1 align="center">Hi 👋, I'm Abhishek Singh</h1>
-<div align="center"> <img src="https://raw.githubusercontent.com/Abhi9125/Abhi9125/main/github-header-image (1).png"> </div>
-<h3 align="center">A passionate frontend developer from India</h3>
+<!-- <div align="center"> <img src="github-header-image(1).png"> </div> -->
+<h3 align="center">Aspiring Front-End Developer | MCA Student | Open to Exciting Opportunities.</h3>
 
 - 🔭 I’m currently working on **Swiggy Clone**
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **JavaScript, Java**
+- 💬 Ask me about **JavaScript,Java**
 
 - 📫 How to reach me **abhi.singh3132@gmail.com**
+
+- ⚡ Achievements : **Successfully solved over 300 coding problems on platforms including nados.io, LeetCode, and GeeksforGeeks, demonstrating strong problem-solving skills and dedication.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
