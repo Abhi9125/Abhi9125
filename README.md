@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Abhishek Singh</h1>
-<div align="center"> <img src="https://raw.githubusercontent.com/Abhi9125/Abhi9125/main/banner-3.png"> </div>
+<div align="center"> <img src="https://raw.githubusercontent.com/Abhi9125/Abhi9125/main/github-header-image (1).png"> </div>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on **Swiggy Clone**
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **JavaScript,Java**
+- 💬 Ask me about **JavaScript, Java**
 
 - 📫 How to reach me **abhi.singh3132@gmail.com**
 
