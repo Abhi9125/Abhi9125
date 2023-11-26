@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Singh</h1>
-<!-- <div align="center"> <img src="github-header-image(1).png"> </div> -->
+<div align="center"> <img src="https://raw.githubusercontent.com/Abhi9125/Abhi9125/main/"> </div>
 <h3 align="center">Aspiring Front-End Developer | MCA Student | Open to Exciting Opportunities.</h3>
 
 - 🔭 I’m currently working on **Swiggy Clone**
