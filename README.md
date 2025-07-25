@@ -2,7 +2,7 @@
 <div align="center"> <img src="https://raw.githubusercontent.com/Abhi9125/Abhi9125/main/github-header-image (2).png"> </div>
 <!-- <h3 align="center">Aspiring Front-End Developer | MCA Student | Open to Exciting Opportunities.</h3> -->
 
-- 🔭 I’m currently working at Seller.in.
+- 🔭 I’m currently working at Sellerfly.in.
 
 - 🌱 I’m currently learning Next.js
 
