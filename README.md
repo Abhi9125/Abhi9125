@@ -1,73 +1,65 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Abhi9125/Abhi9125/main/github-header-image%20(2).png" alt="banner" />
-</div>
+# 👋 Hi, I'm Abhishek Singh
 
-<h3 align="center">Frontend Developer | Passionate about Full-Stack Projects</h3>
+🚀 **Full-Stack Developer | MERN Stack Developer | JavaScript Enthusiast**
 
----
-
-- 🔭 I’m currently working at **SellerFly** as a Frontend Developer.
-- 🌱 I’m currently learning **Next.js** and exploring **backend architecture** deeper.
-- 💬 Ask me about **JavaScript, React, Node.js, Java, Shopify Frontend Development**
-- 📫 Reach me at **abhi.singh3132@gmail.com**
-- ⚡ **Achievements:** Solved over **300+ coding problems** on platforms like **LeetCode**, **GeeksforGeeks**, and **Nados.io**, showcasing strong problem-solving skills.
+I'm a passionate developer focused on building scalable, user-centric web applications using the **MERN Stack (MongoDB, Express.js, React.js, Node.js)**.  
+I love turning ideas into interactive, high-performance digital experiences.
 
 ---
 
-### 👨‍💻 My Recent Projects
-
-#### 💸 Money Transfer App  
-> React • Tailwind CSS • Node.js • Express.js • MongoDB • JWT • Zod  
-Built a full-stack money transfer app with authentication, account management, and secure transaction flow with rollback logic.
-
-#### 🎬 MovieFlix  
-> React • Redux • Firebase • TMDB API • Tailwind CSS  
-Developed a Netflix-like streaming platform with live data from TMDB API and Firebase Authentication.
-
-#### 📺 ViewTube  
-> React • Redux • Custom YouTube Suggestion API • Tailwind CSS  
-YouTube-like search experience with debounce, API suggestions, and a live chat component using polling and random message simulation.
+### 💡 About Me
+- 💻 Currently building full-stack projects using **React**, **Node.js**, and **MongoDB**
+- ⚙️ Experienced with **REST APIs**, **Authentication (JWT, Firebase)**, and **State Management (Redux)**
+- 🌐 Skilled in **responsive design** using **Tailwind CSS**
+- 🧠 Constantly exploring new technologies and improving my problem-solving skills
+- 📚 Learning advanced backend patterns and deployment strategies
+- 🎯 Goal: Build impactful applications that solve real-world problems
 
 ---
 
-### 🧠 Technical Skills
-
-**Languages:**  
-JavaScript • Java  
+### 🛠️ Tech Stack
 
 **Frontend:**  
-HTML • CSS • ReactJS • React Router • Redux • Tailwind CSS  
+React.js | Redux | React Router | Tailwind CSS | HTML5 | CSS3  
 
-**Backend & DB:**  
-Node.js • Express.js • MongoDB • Firebase (Auth, Realtime DB)  
+**Backend:**  
+Node.js | Express.js | MongoDB | PostgreSQL | Firebase | Prisma ORM  
 
-**Dev Tools & Platforms:**  
-Git • GitHub • Shopify (Liquid, Theme Editor, Storefront API) • REST API  
+**Tools & Other Skills:**  
+Git & GitHub | Postman | JWT Auth | Cloudflare Workers | REST APIs  
 
-**Testing:**  
-React Testing Library  
+---
+
+### 🧱 Featured Projects
+
+#### 🚗 [RentNGo](https://car-rental-ivory-pi.vercel.app/)
+*Tech Stack:* React, Tailwind CSS, Node.js, Express.js, MongoDB, JWT  
+- Full-stack car rental platform where users can rent or list cars.
+- Features secure authentication, booking system, image uploads (ImageKit + Multer).
+- Role-based dashboards for users and owners.
+
+#### ✍️ [Think&Write](https://100x-dev-vert.vercel.app/signin)
+*Tech Stack:* React, Tailwind CSS, Cloudflare Workers, Hono, PostgreSQL, Prisma, JWT  
+- Blogging platform for creating and publishing articles with real-time updates.  
+- Uses cookie-based JWT authentication and dynamic routes for blogs.
 
 ---
 
 ### 📈 GitHub Stats
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi9125&show_icons=true&locale=en&layout=compact" alt="abhi9125" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi9125" alt="abhi9125" />
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Abhi9125&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhi9125&theme=tokyonight" />
 </p>
 
 ---
 
 ### 🤝 Connect with Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/abhishek-singh-a8527b218" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/abhi3132/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-</p>
+📧 **Email:** [abhi.singh3132@gmail.com](mailto:abhi.singh3132@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+💻 **Portfolio:** *Coming Soon!*  
+
+---
+
+⭐️ *“Code. Learn. Improve. Repeat.”*  
